@@ -1,4 +1,11 @@
-this is a line of code
-the password is 
+//this is a line of code
+//the password is 
+public class mycode{
 
-password123
+string username;
+string passworkd;
+
+username="***REMOVED***";
+passworkd="***REMOVED***";
+
+}
