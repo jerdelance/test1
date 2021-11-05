@@ -1,8 +1,8 @@
 public class mycode
 {
 	public static void main(String[] args) {
-		String user="juanito";
-		String pass="claveDeJuanito";
+		String user="***REMOVED***";
+		String pass="***REMOVED***";
 		
 		System.out.println("Hello World!");
 	}
